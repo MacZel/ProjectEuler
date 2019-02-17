@@ -13,3 +13,4 @@ This repository contains my solutions to ProjectEuler problems mostly solved in 
 7|[10001st prime](https://projecteuler.net/problem=7)|[:page_facing_up:](prob_7.py)|Python
 8|[Largest product in a series](https://projecteuler.net/problem=8)|[:page_facing_up:](prob_8.py)|Python
 9|[Special Pythagorean triplet](https://projecteuler.net/problem=9)|[:page_facing_up:](prob_9.py)|Python
+10|[Summation of primes](https://projecteuler.net/problem=10)|[:page_facing_up:](prob_10.py)|Python
