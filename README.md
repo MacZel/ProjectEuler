@@ -15,3 +15,4 @@ This repository contains my solutions to ProjectEuler problems mostly solved in 
 9|[Special Pythagorean triplet](https://projecteuler.net/problem=9)|[:page_facing_up:](prob_9.py)|Python
 10|[Summation of primes](https://projecteuler.net/problem=10)|[:page_facing_up:](prob_10.py)|Python
 11|[Largest product in a grid](https://projecteuler.net/problem=11)|[:page_facing_up:](prob_11.py)|Python
+12|[Highly divisible triangular number](https://projecteuler.net/problem=12)|[:page_facing_up:](prob_12.py)|Python
