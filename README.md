@@ -9,3 +9,4 @@ This repository contains my solutions to ProjectEuler problems mostly solved in 
 3|[Largest prime factor](https://projecteuler.net/problem=3)|[:page_facing_up:](prob_3.py)|Python
 4|[Largest palindrome product](https://projecteuler.net/problem=4)|[:page_facing_up:](prob_4.py)|Python
 5|[Smallest multiple](https://projecteuler.net/problem=5)|[:page_facing_up:](prob_5.py)|Python
+6|[Sum square difference](https://projecteuler.net/problem=6)|[:page_facing_up:](prob_6.py)|Python
