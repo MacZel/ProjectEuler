@@ -20,3 +20,4 @@ This repository contains my solutions to ProjectEuler problems mostly solved in 
 14|[Longest Collatz sequence](https://projecteuler.net/problem=14)|[:page_facing_up:](prob_14.py)|Python
 15|[Lattice paths](https://projecteuler.net/problem=15)|[:page_facing_up:](prob_15.py)|Python
 16|[Power digit sum](https://projecteuler.net/problem=16)|[:page_facing_up:](prob_16.py)|Python
+17|[Number letter counts](https://projecteuler.net/problem=17)|[:page_facing_up:](prob_17.py)|Python
