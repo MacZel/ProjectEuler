@@ -11,3 +11,4 @@ This repository contains my solutions to ProjectEuler problems mostly solved in 
 5|[Smallest multiple](https://projecteuler.net/problem=5)|[:page_facing_up:](prob_5.py)|Python
 6|[Sum square difference](https://projecteuler.net/problem=6)|[:page_facing_up:](prob_6.py)|Python
 7|[10001st prime](https://projecteuler.net/problem=7)|[:page_facing_up:](prob_7.py)|Python
+8|[Largest product in a series](https://projecteuler.net/problem=8)|[:page_facing_up:](prob_8.py)|Python
