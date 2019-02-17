@@ -16,3 +16,4 @@ This repository contains my solutions to ProjectEuler problems mostly solved in 
 10|[Summation of primes](https://projecteuler.net/problem=10)|[:page_facing_up:](prob_10.py)|Python
 11|[Largest product in a grid](https://projecteuler.net/problem=11)|[:page_facing_up:](prob_11.py)|Python
 12|[Highly divisible triangular number](https://projecteuler.net/problem=12)|[:page_facing_up:](prob_12.py)|Python
+13|[Large sum](https://projecteuler.net/problem=13)|[:page_facing_up:](prob_13.py)|Python
