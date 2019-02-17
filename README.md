@@ -18,3 +18,4 @@ This repository contains my solutions to ProjectEuler problems mostly solved in 
 12|[Highly divisible triangular number](https://projecteuler.net/problem=12)|[:page_facing_up:](prob_12.py)|Python
 13|[Large sum](https://projecteuler.net/problem=13)|[:page_facing_up:](prob_13.py)|Python
 14|[Longest Collatz sequence](https://projecteuler.net/problem=14)|[:page_facing_up:](prob_14.py)|Python
+15|[Lattice paths](https://projecteuler.net/problem=15)|[:page_facing_up:](prob_15.py)|Python
